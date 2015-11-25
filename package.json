@@ -1,0 +1,30 @@
+{
+  "name": "tr-angular-exporter",
+  "version": "0.0.1",
+  "description": "Translation manager exporter to angular module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egel/tr-angular-exporter.git"
+  },
+  "keywords": [
+    "angular",
+    "exporter",
+    "export",
+    "translation",
+    "manager",
+    "transaltion-manager"
+  ],
+  "author": {
+    "name": "Maciej Sypień",
+    "email": "maciejsypien@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egel/tr-angular-exporter/issues"
+  },
+  "homepage": "https://github.com/egel/tr-angular-exporter#readme"
+}
