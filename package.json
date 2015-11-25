@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/egel/tr-angular-exporter/issues"
   },
-  "homepage": "https://github.com/egel/tr-angular-exporter#readme"
+  "homepage": "https://github.com/egel/tr-angular-exporter#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
